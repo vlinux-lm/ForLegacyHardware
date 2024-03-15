@@ -1,7 +1,6 @@
 Thank you for choosing VLinux LE!
 If you're reading this from the OS, you're already in.
-to install it to the harddrive, format it with another Linux live CD (this doesn't have gui formatting tools, yet)
-over the slax directory and go into boot and run bootinst.sh
+to install it to the harddrive, copy over the slax directory and go into boot and run bootinst.sh
 
 you can delete this if you want :)
 
